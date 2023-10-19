@@ -1,0 +1,19 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Wed Oct 11 05:25:09 2023
+[*]
+[dumpfile] "C:\Users\samlo\Desktop\lab-fir\fir.vcd"
+[dumpfile_mtime] "Wed Oct 11 04:39:16 2023"
+[dumpfile_size] 5539330
+[savefile] "C:\Users\samlo\Desktop\lab-fir\fir\fir.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*0.000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] fir_tb.
+[sst_width] 197
+[signals_width] 78
+[sst_expanded] 1
+[sst_vpaned_height] 153
+[pattern_trace] 1
+[pattern_trace] 0
